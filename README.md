@@ -8,6 +8,5 @@ and evaluate system sensitivity to variations in isotopic half-lives.
 * Install matplotlib
 * run python decay_kinetics_simulation.py
 
-# Results
-<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/09e6a95e-af8e-4389-a424-41bbf23af9aa" />
-<img width="554" height="455" alt="image" src="https://github.com/user-attachments/assets/db52a22a-93b8-4265-a2f5-aaeae246040e" />
+# Purpose
+This was a simple assignment for an introductory nuclear engineering class at my university.
